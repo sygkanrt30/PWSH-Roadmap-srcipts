@@ -1,3 +1,5 @@
+# Script that informed the user about how many days are left until the New Year
+
 $CurrentTime = Get-Date
 $NewYear = Get-Date -Year 2027 -Month 1 -Day 1 -Hour 0 -Minute 0 -Second 0
 
